@@ -1,0 +1,34 @@
+{
+    "sourceFile": "index.html",
+    "activeCommit": 0,
+    "commits": [
+        {
+            "activePatchIndex": 4,
+            "patches": [
+                {
+                    "date": 1645249601727,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n"
+                },
+                {
+                    "date": 1645249621821,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -7,9 +7,9 @@\n     <title>Udemy Git</title>\n </head>\n \n <body>\n-    <h1>はじめてのGit</h1>\n+    <h1>Git</h1>\n     <p>現場で困らないようにGitを学習していきましょう</p>\n </body>\n \n </html>\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1645255101982,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -3,13 +3,13 @@\n <head>\n     <meta charset=\"UTF-8\">\n     <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n     <meta http-equiv=\"X-UA-Compatible\" content=\"ie=edge\">\n-    <title>Udemy Git</title>\n+    <title> Git</title>\n </head>\n \n <body>\n-    <h1>Git</h1>\n+    <h1>Udemy Git</h1>\n     <p>現場で困らないようにGitを学習していきましょう</p>\n </body>\n \n </html>\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1645255109781,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -3,9 +3,9 @@\n <head>\n     <meta charset=\"UTF-8\">\n     <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n     <meta http-equiv=\"X-UA-Compatible\" content=\"ie=edge\">\n-    <title> Git</title>\n+    <title>はじめての Git</title>\n </head>\n \n <body>\n     <h1>Udemy Git</h1>\n"
+                },
+                {
+                    "date": 1645255950193,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -3,9 +3,9 @@\n <head>\n     <meta charset=\"UTF-8\">\n     <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n     <meta http-equiv=\"X-UA-Compatible\" content=\"ie=edge\">\n-    <title>はじめての Git</title>\n+    <title>First Git</title>\n </head>\n \n <body>\n     <h1>Udemy Git</h1>\n"
+                }
+            ],
+            "date": 1645249601727,
+            "name": "Commit-0",
+            "content": "<html lang=\"ja\">\n\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <meta http-equiv=\"X-UA-Compatible\" content=\"ie=edge\">\n    <title>Udemy Git</title>\n</head>\n\n<body>\n    <h1>はじめてのGit</h1>\n    <p>現場で困らないようにGitを学習していきましょう</p>\n</body>\n\n</html>"
+        }
+    ]
+}
